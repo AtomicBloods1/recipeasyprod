@@ -1,0 +1,26 @@
+{
+  "NavBar": {
+    "Recipes" : "Recettes",
+    "Profile" : "Profil",
+    "LogOut" : "Déconnextion",
+    "LogIn" : "Connexion",
+    "Language": "English"
+  },
+  "Form": {
+    "Name" : "Nom",
+    "Description": "Description",
+    "CategorySelect": {
+      "Category" : "Catégorie",
+      "Breakfast": "Déjeuner",
+      "Dinner": "Diner",
+      "Supper" : "Souper"
+    },
+    "AddRecipe":"Ajouter la recette",
+    "Cancel": "Annuler",
+    "Validations": {
+      "NameError": "Veuillez donner un nom à votre recette.",
+      "CategoryError": "Veuillez sélectionner une catégorie pour votre recette.",
+      "GlobalError" : "Vous devez remplir tous les champs"
+    }
+  }
+}

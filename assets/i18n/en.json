@@ -1,0 +1,26 @@
+{
+  "NavBar": {
+    "Recipes" : "Recipes",
+    "Profile" : "Profile",
+    "LogOut" : "Log Out",
+    "LogIn" : "Log In",
+    "Language": "Français"
+  },
+  "Form": {
+    "Name" : "Name",
+    "Description": "Description",
+    "CategorySelect": {
+      "Category" : "Category",
+      "Breakfast": "Breakfast",
+      "Dinner": "Dinner",
+      "Supper" : "Supper"
+    },
+    "AddRecipe":"Add Recipe",
+    "Cancel": "Cancel",
+    "Validations": {
+      "NameError": "Please provide a name to your recipe.",
+      "CategoryError": "Please select a category to your recipe.",
+      "GlobalError" : "You need to fill all the fields"
+    }
+  }
+}
